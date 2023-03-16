@@ -24,10 +24,10 @@
 
   > 关键是把直线的方向和位置分开来思考
 
-  - reference
-
-    [直纹面的简要介绍 以及 matlab 程序实现](https://blog.csdn.net/mw_1422102031/article/details/108904455)
-
 - 线矢量
 
   > 我不明白为啥要用矢距, 而不是 r 来刻画
+
+## References
+
+1. [直纹面的简要介绍 以及 matlab 程序实现](https://blog.csdn.net/mw_1422102031/article/details/108904455)
